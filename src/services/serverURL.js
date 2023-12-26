@@ -1,1 +1,1 @@
-export const SERVER_URl = "https://mp-server-zrrl.onrender.com"
+export const SERVER_URl = "https://media-player-server-vmcc.onrender.com"
